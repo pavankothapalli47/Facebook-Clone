@@ -48,3 +48,10 @@ Log in or create a new account to start exploring the Facebook Clone
 ## Demo
 Watch the project in action!
 
+https://github.com/pavankothapalli47/Facebook-Clone/assets/99778112/e96bc09d-a842-43b9-9843-537a291c56c8
+
+
+
+
+
+
