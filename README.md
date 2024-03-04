@@ -1,4 +1,4 @@
-# Facebook Clone Project
+# Facebook Clone 🚀
 
 ## Table of Contents
 
@@ -42,4 +42,8 @@ Welcome to the Facebook Clone project! This project is a recreation of the popul
 
 ## Usage 
 
+Open your web browser and go to http://localhost:3000.
+Log in or create a new account to start exploring the Facebook Clon
 
+## Demo
+Watch the project in action!
