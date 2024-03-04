@@ -47,4 +47,4 @@ Log in or create a new account to start exploring the Facebook Clone
 
 ## Demo
 Watch the project in action!
-(https://github.com/pavankothapalli47/JobListing/assets/99778112/13e2d23d-1f15-4da9-9336-7c2d18e780c3)
+
