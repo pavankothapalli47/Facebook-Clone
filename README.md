@@ -32,8 +32,14 @@ Welcome to the Facebook Clone project! This project is a recreation of the popul
    ```bash
    git clone https://github.com/your-username/facebook-clone.git
 2. Install dependencies:
+   ```bash
    cd facebook-clone
    npm install
-3. Start the development server:
-    npm run dev - frontend 
-    npm run dev - backend
+4. Start the development server:
+    ```bash
+    npm run dev - Frontend 
+    npm run dev: server - Backend
+
+## Usage 
+
+
